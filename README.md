@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kishan B 👋
 
-<!--
-**KishanBeguregowda/kishanBeguregowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc Cyber Security Student** at University of Roehampton, London
+💼 **Background:** Electronics & Communication Engineering (ECE)
+🛠️ **Core Skills:** Network Security, Digital Forensics, DevSecOps, Java, SQL, Embedded Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 MSc Focus Areas & Modules
+- AI-Enabled Cyber Security Operations
+- Systems & Network Security
+- Digital Forensics & Incident Response
+- IoT & Cloud Security
+
+---
+
+### 📬 Connect with Me
+**LinkedIn:** [Kishan B](https://linkedin.com/in/kishan-b-73052333b)
